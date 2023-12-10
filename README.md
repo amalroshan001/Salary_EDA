@@ -1,0 +1,6 @@
+- Open Jupyter Notebook
+- Run all cells
+- Contains Salary Dataset
+- Analyse the data
+- Visualization of the data
+- initialize
